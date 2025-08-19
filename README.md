@@ -15,6 +15,3 @@ TASK 3 ATM INTERFACE 1.Create a class to represent the ATM machine.
 4. Create a class to represent the user's bank account, which stores the account balance.
 5. Connect the ATM class with the user's bank account class to access and modify the account balance. 6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
 7. Display appropriate messages to the user based on their chosen options and the success or failure of their transaction 
-
-TASK 4 CURRENCY CONVERTER:
-Currency Selection: Allow the user to choose the base currency and the target currency. Currency Rates: Fetch real-time exchange rates from a reliable API. Amount Input: Take input from the user for the amount they want to convert. Currency Conversion: Convert the input amount from the base currency to the target currency using the fetched exchange rate. Display Result: Show the converted amount and the target currency symbol to the user.
